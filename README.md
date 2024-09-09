@@ -33,9 +33,3 @@ The dataset comprises various transaction data types and customer demographic in
 
 ## How to Run the Project
 Instructions on setting up the environment, installing dependencies, and running each task are detailed in subsequent sections.
-
-## Contributors
-List of team members and contributors to the project.
-
-## License
-Specify the license under which this project is released (if applicable).
